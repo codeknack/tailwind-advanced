@@ -8,6 +8,7 @@ Examples of using Tailwind to accompany a tutorial on SitePoint.
 
 ## Installation Steps
 
-1. Clone repo
-2. Build Tailwind's styles `npx tailwindcss -i styles.css -o tailwind.css`
-3. Open `index.html`
+1. Clone the repo
+2. Navigate to the project `cd tailwind-advanced`
+3. Build Tailwind's styles `npx tailwindcss -i styles.css -o tailwind.css`
+4. Open `index.html`
