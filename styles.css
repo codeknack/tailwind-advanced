@@ -40,13 +40,3 @@
     @apply text-red-800;
   }
 }
-
-@layer utilities {
-  /* Text Decoration Utilities */
-  .text-decoration-blue {
-    text-decoration-color: blue;
-  }
-  .text-decoration-wavy {
-    text-decoration-style: wavy;
-  }
-}
